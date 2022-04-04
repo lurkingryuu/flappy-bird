@@ -1,0 +1,5 @@
+Components of a game:
+    1. Game Loop
+    2. Events
+    3. Sprites
+    4. Sound
