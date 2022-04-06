@@ -13,8 +13,6 @@
 * Find the Flappy.exe file and double click it
 
 #### Credits
-* ###### Author
-Karthikeya
+* ###### Author - Karthikeya
 
-* ###### References
-Code With Harry: <a href="https://youtu.be/itB6VsP5UnA">Link to the tutorial</a>
+* ###### References - Code With Harry: <a href="https://youtu.be/itB6VsP5UnA">Link to the tutorial</a>
