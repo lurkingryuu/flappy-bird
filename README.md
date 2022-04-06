@@ -11,7 +11,7 @@
 * Extract the FlappyBird.zip
 * Go into the Folder Flappy
 * Find the Flappy.exe file and double click it
-
+***
 #### Credits
 * ###### Author - Karthikeya
 
