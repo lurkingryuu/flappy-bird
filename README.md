@@ -1,4 +1,7 @@
 # Flappy Bird
+<img src="glimpse.png"
+     alt="A Glimpse of the game"
+     style="float: left; margin-right: 10px;" />
 ### Run the file through CLI
     * `pip install -r requirements.txt`
     * `python Flappy.py`
