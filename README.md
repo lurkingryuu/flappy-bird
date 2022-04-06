@@ -3,8 +3,8 @@
      alt="A Glimpse of the game"
      style="float: centre; margin-right: 10px;" />
 ### Run the file through CLI
-    * `pip install -r requirements.txt`
-    * `python Flappy.py`
+*     `pip install -r requirements.txt`
+*     `python Flappy.py`
 
 ***
 ### Play without running any commands
